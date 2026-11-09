@@ -91,6 +91,7 @@ Documentación de PyCryptodome: AES
 Documentación de PyCryptodome: padding
 Python: hashlib.pbkdf2_hmac
 Stack Overflow: OpenSSL y la cabecera Salted__
+
 Autor
 
 Iván Roig Soligó
